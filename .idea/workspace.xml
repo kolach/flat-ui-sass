@@ -2,43 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e271f792-a980-4f02-b9da-46ae3a3c5e99" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/config.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/icon-font.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/modules/alerts.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/modules/bottom.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/modules/breadcrumbs.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/modules/buttons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/modules/caret.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/modules/checkbox-and-radio.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/modules/demo.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/modules/dialog.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/modules/dropdown.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/modules/iconbar.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/modules/input.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/modules/label-badges.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/modules/nav.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/modules/navbar.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/modules/pager.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/modules/pagination.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/modules/popover.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/modules/progress.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/modules/select.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/modules/switch.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/modules/tables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/modules/tagsinput.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/modules/tooltip.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/modules/type.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/modules/ui-datepicker.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/modules/ui-slider.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/modules/ui-spinner.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/spaces.scss" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/flat-ui.scss" afterPath="$PROJECT_DIR$/lib/flat-ui.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/_config.scss" afterPath="$PROJECT_DIR$/lib/_config.scss" />
     </list>
     <ignored path="flat-ui-sass.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="e271f792-a980-4f02-b9da-46ae3a3c5e99" time="1372984590068" ignored="false" />
     <file path="/flat-ui.scss" changelist="e271f792-a980-4f02-b9da-46ae3a3c5e99" time="1372984798617" ignored="false" />
+    <file path="$PROJECT_DIR$/../man/client/app/bower_components/flat-ui-sass/lib/flat-ui.scss" changelist="e271f792-a980-4f02-b9da-46ae3a3c5e99" time="1372984885504" ignored="false" />
+    <file path="$PROJECT_DIR$/../man/client/app/styles/flat-ui_and_overrides.scss" changelist="e271f792-a980-4f02-b9da-46ae3a3c5e99" time="1372985212530" ignored="false" />
+    <file path="/flat-ui_and_overrides.scss" changelist="e271f792-a980-4f02-b9da-46ae3a3c5e99" time="1372985177849" ignored="false" />
+    <file path="$PROJECT_DIR$/../man/client/app/bower_components/flat-ui-sass/lib/_config.scss" changelist="e271f792-a980-4f02-b9da-46ae3a3c5e99" time="1372985432074" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +43,7 @@
       <file leaf-file-name="_config.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/_config.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="143" column="39" selection-start="3659" selection-end="3659" vertical-scroll-proportion="1.38059">
+            <state line="173" column="35" selection-start="5144" selection-end="5144" vertical-scroll-proportion="3.2921028">
               <folding />
             </state>
           </provider>
@@ -95,6 +68,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/lib/flat-ui.scss" />
+        <option value="$PROJECT_DIR$/lib/_config.scss" />
       </list>
     </option>
   </component>
@@ -278,7 +252,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/_config.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="143" column="39" selection-start="3659" selection-end="3659" vertical-scroll-proportion="1.38059">
+        <state line="173" column="35" selection-start="5144" selection-end="5144" vertical-scroll-proportion="3.2921028">
           <folding />
         </state>
       </provider>
