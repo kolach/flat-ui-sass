@@ -162,3 +162,101 @@
     margin: 0 0 0 10px;
   }
 }
+
+
+
+//
+// Inputs
+// --------------------------------------------------
+
+// Text fields
+textarea,
+input[type="text"],
+input[type="password"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="date"],
+input[type="month"],
+input[type="time"],
+input[type="week"],
+input[type="number"],
+input[type="email"],
+input[type="url"],
+input[type="search"],
+input[type="tel"],
+input[type="color"],
+.uneditable-input {
+
+  @media (max-width: 767px) {
+    & {
+      height: 41px;
+      margin: 9px 0;
+      margin-left: 0;
+      margin-right: 0;
+      width: 100%;
+      @include box-sizing();
+    }
+    textarea {
+      height: 120px;
+    }
+  }
+
+  // Huge
+  .control-group.huge &,
+  &.huge {
+    @media (max-width: 767px) {
+      & { height: 53px; }
+    }
+  }
+
+  // Large
+  .control-group.large &,
+  &.large {
+
+    @media (max-width: 767px) {
+      & { height: 45px; }
+    }
+
+  }
+
+  // Small
+  .control-group.small &,
+  &.small {
+
+    @media (max-width: 767px) {
+      & { height: 34px; }
+    }
+
+  }
+
+}
+
+
+// INPUT GROUPS
+// ------------
+
+// Allow us to put symbols and text within the input field for a cleaner look
+.input-append,
+.input-prepend {
+
+  // Reset the white space collapse hack
+  input,
+  select,
+  .uneditable-input,
+  .dropdown-menu,
+  .popover {
+
+    @media (max-width: 767px) {
+      & { margin-top: 0; }
+    }
+
+  }
+
+}
+
+//
+// Responsive: Landscape phone to desktop/tablet
+// --------------------------------------------------
+@media (max-width: 767px) {
+  .control-group { margin-bottom: 18px; }
+}

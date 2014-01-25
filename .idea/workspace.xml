@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e271f792-a980-4f02-b9da-46ae3a3c5e99" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/_navbar.scss" afterPath="$PROJECT_DIR$/lib/_navbar.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/flat-ui-sass.iml" afterPath="$PROJECT_DIR$/.idea/flat-ui-sass.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/_input.scss" afterPath="$PROJECT_DIR$/lib/_input.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/flat-ui-responsive.scss" afterPath="$PROJECT_DIR$/lib/flat-ui-responsive.scss" />
     </list>
     <ignored path="flat-ui-sass.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,7 +38,7 @@
       <file leaf-file-name="flat-ui-responsive.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/flat-ui-responsive.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="163" column="0" selection-start="3142" selection-end="3142" vertical-scroll-proportion="-31.275862" vertical-offset="2353" max-vertical-offset="3380">
+            <state line="259" column="1" selection-start="4586" selection-end="4586" vertical-scroll-proportion="-32.655174" vertical-offset="4233" max-vertical-offset="5340">
               <folding />
             </state>
           </provider>
@@ -55,10 +53,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_label-badges.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_label-badges.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/_label-badges.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1900">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1900">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_input.scss" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/_input.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="588" column="26" selection-start="11915" selection-end="11915" vertical-scroll-proportion="0.2007992" vertical-offset="11559" max-vertical-offset="12560">
               <folding />
             </state>
           </provider>
@@ -95,6 +102,7 @@
         <option value="$PROJECT_DIR$/lib/flat-ui.scss" />
         <option value="$PROJECT_DIR$/lib/_navbar.scss" />
         <option value="$PROJECT_DIR$/lib/flat-ui-responsive.scss" />
+        <option value="$PROJECT_DIR$/lib/_input.scss" />
       </list>
     </option>
   </component>
@@ -315,13 +323,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/flat-ui-responsive.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="163" column="0" selection-start="3142" selection-end="3142" vertical-scroll-proportion="-31.275862" vertical-offset="2353" max-vertical-offset="3380">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/flat-ui.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="47" selection-start="127" selection-end="127" vertical-scroll-proportion="-2.0689654" vertical-offset="0" max-vertical-offset="1020">
@@ -339,6 +340,20 @@
     <entry file="file://$PROJECT_DIR$/lib/_label-badges.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1900">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/flat-ui-responsive.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="259" column="1" selection-start="4586" selection-end="4586" vertical-scroll-proportion="-32.655174" vertical-offset="4233" max-vertical-offset="5340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/_input.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="588" column="26" selection-start="11915" selection-end="11915" vertical-scroll-proportion="0.2007992" vertical-offset="11559" max-vertical-offset="12560">
           <folding />
         </state>
       </provider>
